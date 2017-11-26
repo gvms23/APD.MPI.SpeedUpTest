@@ -1,0 +1,7 @@
+C:\Users\GV\OneDrive - Editora e Distribuidora Educacional\1.PESSOAL\Estudos\APD\MPI.SpeedUpTest\MPI.SpeedUpTest\bin\Debug\MPI.SpeedUpTest.exe.config
+C:\Users\GV\OneDrive - Editora e Distribuidora Educacional\1.PESSOAL\Estudos\APD\MPI.SpeedUpTest\MPI.SpeedUpTest\bin\Debug\MPI.SpeedUpTest.exe
+C:\Users\GV\OneDrive - Editora e Distribuidora Educacional\1.PESSOAL\Estudos\APD\MPI.SpeedUpTest\MPI.SpeedUpTest\bin\Debug\MPI.SpeedUpTest.pdb
+C:\Users\GV\OneDrive - Editora e Distribuidora Educacional\1.PESSOAL\Estudos\APD\MPI.SpeedUpTest\MPI.SpeedUpTest\obj\Debug\MPI.SpeedUpTest.csprojResolveAssemblyReference.cache
+C:\Users\GV\OneDrive - Editora e Distribuidora Educacional\1.PESSOAL\Estudos\APD\MPI.SpeedUpTest\MPI.SpeedUpTest\obj\Debug\MPI.SpeedUpTest.csproj.CoreCompileInputs.cache
+C:\Users\GV\OneDrive - Editora e Distribuidora Educacional\1.PESSOAL\Estudos\APD\MPI.SpeedUpTest\MPI.SpeedUpTest\obj\Debug\MPI.SpeedUpTest.exe
+C:\Users\GV\OneDrive - Editora e Distribuidora Educacional\1.PESSOAL\Estudos\APD\MPI.SpeedUpTest\MPI.SpeedUpTest\obj\Debug\MPI.SpeedUpTest.pdb
